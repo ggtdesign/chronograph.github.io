@@ -1,0 +1,61 @@
+.container {
+  justify-content: center;
+  margin: 64px;
+}
+
+.rechenschieber {
+  display: flex;
+}
+
+.multiplizieren-container {
+  justify-content: center;
+  align-items: center;
+}
+
+.multiplizieren {
+  width: 312px;
+  height: 312px;
+  justify-content: center;
+  align-items: center;
+  margin-right: 64px;
+  margin-bottom: 32px;
+}
+
+.multiplizieren-text {
+  margin-left: 32px;
+}
+
+.dividieren-container {
+  justify-content: center;
+  align-items: center;
+}
+
+.dividieren {
+  width: 312px;
+  height: 312px;
+  justify-content: center;
+  align-items: center;
+  margin-right: 64px;
+  margin-bottom: 32px;
+}
+
+.dividieren-text {
+  margin-left: 32px;
+}
+
+.sinkrate-container {
+  justify-content: center;
+  align-items: center;
+}
+
+.sinkrate {
+  width: 312px;
+  height: 312px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.sinkrate-text {
+  margin-left: 32px;
+}
