@@ -1,5 +1,5 @@
 [GERMAN]
-Support und Datenschutzerklärung Chronograph+
+Support und Datenschutzerklärung für Chronograph+
 
 Hierbei handelt es sich um eine analoge Fliegeruhr mit rotierbarem Rechenschieber inkl. Stoppuhr-Funktion.
 
